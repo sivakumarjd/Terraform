@@ -1,2 +1,2 @@
 # Terraform
-Terraform Labs & Pocs
+Terraform Labs & POCs
